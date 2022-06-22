@@ -1,1 +1,2 @@
-# desafio-targeds-sistema-sp
+Desafio Target Sistemas - SP
+Questões resolvidas com NodeJS
