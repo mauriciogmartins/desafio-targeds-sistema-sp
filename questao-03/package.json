@@ -1,0 +1,17 @@
+{
+  "name": "questao-03",
+  "version": "1.0.0",
+  "description": "Resolução da questao 03",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "targed"
+  ],
+  "author": "Mauricio Guimarães Martins",
+  "license": "ISC"
+}
